@@ -10,7 +10,7 @@ Thoe project will be split in two different sections:
 
 **2. EDA:** This notebook will contain all the interactions performed within the main dataset during the stage of Exploratory Data Analysis.
 
-##Dashboard 
+## Dashboard 
 
 The other part of the project will consist in a Power BI Dashboard where the behaviour of the data will be explained, adapting each trend to the corresponding user; applying R scripting and offering a clean view of how the chat behaves through time.
 
